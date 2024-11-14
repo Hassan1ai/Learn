@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Learn\\Learnnnn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D174D-4131-49B1-994D-1DE673D85018}|Learnnnn\\Learnnnn.csproj|c:\\users\\admin\\desktop\\learn\\learnnnn\\learnnnn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5D174D-4131-49B1-994D-1DE673D85018}|Learnnnn\\Learnnnn.csproj|solutionrelative:learnnnn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D174D-4131-49B1-994D-1DE673D85018}|Learnnnn\\Learnnnn.csproj|c:\\users\\admin\\desktop\\learn\\learnnnn\\learnnnn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D174D-4131-49B1-994D-1DE673D85018}|Learnnnn\\Learnnnn.csproj|solutionrelative:learnnnn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Learn\\Learnnnn\\Learnnnn\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Learnnnn\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Learn\\Learnnnn\\Learnnnn\\MainWindow.xaml",
+              "RelativeToolTip": "Learnnnn\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T10:01:50.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Learn\\Learnnnn\\Learnnnn\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Learnnnn\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Learn\\Learnnnn\\Learnnnn\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Learnnnn\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:01:49.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
